@@ -45,6 +45,11 @@ def pairing_problem(arr)
   result 
 end
 arr = [5, 5, 8, 5, 5, 5]
+# [8, 8, 8, 8, 8, 8, 8]
+# [8, 8, 8, 8, 12, 10, 20]
+# [8, 8, 8, 8, 12, 10, 20, 18, 30, 10]
+# [9, 5, 2, 7, 12, 13]
+# [9, 5, 2, 7, 12, 13,20,50,50,50,60,60,50,70,100]
 # arr2 = arr_combination()
 pairing_problem(arr)
 #p arr_combination(8)
