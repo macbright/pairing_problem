@@ -47,19 +47,26 @@ week 6: [[1, 2], [3, 4]]
 
 ### Test Cases
 - input:  [4, 5, 5, 5, 5, 5 ]
+
 ![sample](./images/s1.png)
 
+
 - [8, 8, 8, 8, 8, 8, 8]
+
 ![sample](./images/s2.png)
 
 - input:  [8, 8, 8, 8, 12, 10, 20]
+
 ![sample](./images/s3.png)
 
 - input: [8, 8, 8, 8, 12, 10, 20, 18, 30, 10]
+
 ![sample](./images/s4.png)
 
 - input: [9, 5, 2, 7, 12, 13]
+
 ![sample](./images/s5.png)
 
 - input: [9, 5, 2, 7, 12, 13,20,50,50,50,60,60,50,70,100]
+
 ![sample](./images/s6.png)
